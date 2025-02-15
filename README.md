@@ -1,9 +1,10 @@
+```csharp
 int suma(int num1, int num2)
 {
     int resuls = 0;
     resuls = num1 + num2;
     return resuls;
-}
+
 int division(int num1, int num2)
 {
     int resuld = 0;
